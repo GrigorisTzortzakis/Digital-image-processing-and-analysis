@@ -15,18 +15,16 @@ In this exercise you will implement and explore basic image‐processing operati
 - **Image restoration** via deconvolution (Wiener filtering)  
 - **Edge detection** (e.g. Sobel, Canny) and the Hough transform for line detection  
 
-All code is provided in MATLAB/Python scripts, together with sample images and expected outputs. Follow the README in `lab01` to get started.
+All code is provided in MATLAB scripts.
 
 ---
 
-## Exercise 2: Machine Learning & Advanced Restoration
+## Exercise 2: Machine Learning 
 
 Building on the fundamentals, this exercise covers learning‑based methods and advanced restoration techniques:
 
 - **Convolutional Neural Networks**: train a simple CNN on MNIST for digit classification  
 - **HOG + SVM**: extract Histogram‑of‑Oriented‑Gradients features and train an SVM classifier  
-- **Sparse coding & dictionary learning** (K‑SVD, OMP) for image denoising  
-- **ROI & mask generation**: create region‑of‑interest masks for vehicle detection in video frames  
 
-Each sub‐task includes notebooks or scripts, data files, and instructions in `lab02`.  
+Code is provided in python and matlab.  
 
